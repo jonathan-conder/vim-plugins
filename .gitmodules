@@ -20,3 +20,6 @@
 	path = start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
 	branch = release
+[submodule "start/vim-terraform"]
+	path = start/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
